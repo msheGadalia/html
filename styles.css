@@ -1,0 +1,12 @@
+img{
+   width:200;
+   border:600px ;
+}
+body{
+	background-image:url('https://d3m9l0v76dty0.cloudfront.net/system/photos/653037/large/4243f2345079a135a788311fc184f0db.jpg');
+	background-size: cover;
+	 background-position: center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	
+}
